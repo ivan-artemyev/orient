@@ -1,0 +1,3056 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Maprika for Android" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/1 http://www.topografix.com/GPX/Private/TopoGrafix/0/1/topografix.xsd http://www.maprika.com/gpx http://www.maprika.com/gpx/maprika.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:topografix="http://www.topografix.com/GPX/Private/TopoGrafix/0/1" xmlns:maprika="http://www.maprika.com/gpx">
+  <trk>
+    <name><![CDATA[трек]]>
+    </name>
+    <desc><![CDATA[31 октября 2021 г. 10:50 AM
+4 км. за 1 ч. 16 мин., ⇡20 м., ⇣11 м.
+Средн. скорость 5,7 км/ч, макс. 8 км/ч]]>
+    </desc>
+    <trkseg>
+      <trkpt lat="56.3838019" lon="43.6760794">
+        <ele>99</ele>
+        <time>2021-10-31T07:50:55Z</time>
+        <geoidheight>9</geoidheight>
+        <extensions>
+          <maprika:speed>0.24</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3837774" lon="43.676148">
+        <ele>78</ele>
+        <time>2021-10-31T07:52:41Z</time>
+        <extensions>
+          <maprika:speed>0.54</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3837091" lon="43.6760319">
+        <ele>80</ele>
+        <time>2021-10-31T07:53:30Z</time>
+        <extensions>
+          <maprika:speed>0.7</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3836775" lon="43.6759703">
+        <ele>79</ele>
+        <time>2021-10-31T07:54:06Z</time>
+        <extensions>
+          <maprika:speed>0.61</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3836331" lon="43.6760014">
+        <ele>76</ele>
+        <time>2021-10-31T07:55:25Z</time>
+        <extensions>
+          <maprika:speed>0.98</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3835838" lon="43.675996">
+        <ele>78</ele>
+        <time>2021-10-31T07:55:33Z</time>
+        <extensions>
+          <maprika:speed>1.22</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3835239" lon="43.6759902">
+        <ele>79</ele>
+        <time>2021-10-31T07:55:38Z</time>
+        <extensions>
+          <maprika:speed>1.17</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3834689" lon="43.6759869">
+        <ele>81</ele>
+        <time>2021-10-31T07:55:43Z</time>
+        <extensions>
+          <maprika:speed>1.17</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3834216" lon="43.6760025">
+        <ele>82</ele>
+        <time>2021-10-31T07:55:49Z</time>
+        <extensions>
+          <maprika:speed>0.8</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3833304" lon="43.6760446">
+        <ele>84</ele>
+        <time>2021-10-31T07:55:58Z</time>
+        <extensions>
+          <maprika:speed>1.29</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3832322" lon="43.6760532">
+        <ele>85</ele>
+        <time>2021-10-31T07:56:08Z</time>
+        <extensions>
+          <maprika:speed>0.46</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3831149" lon="43.6760289">
+        <ele>84</ele>
+        <time>2021-10-31T07:56:26Z</time>
+        <extensions>
+          <maprika:speed>0.48</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3830671" lon="43.676003">
+        <ele>84</ele>
+        <time>2021-10-31T07:56:32Z</time>
+        <extensions>
+          <maprika:speed>0.22</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3830228" lon="43.6759546">
+        <ele>81</ele>
+        <time>2021-10-31T07:58:17Z</time>
+        <extensions>
+          <maprika:speed>1.19</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3829216" lon="43.6759583">
+        <ele>80</ele>
+        <time>2021-10-31T08:04:23Z</time>
+        <extensions>
+          <maprika:speed>0.86</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3828291" lon="43.6759789">
+        <ele>78</ele>
+        <time>2021-10-31T08:04:38Z</time>
+        <extensions>
+          <maprika:speed>0.66</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3827256" lon="43.6759626">
+        <ele>82</ele>
+        <time>2021-10-31T08:04:51Z</time>
+        <extensions>
+          <maprika:speed>1.13</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3826422" lon="43.6758812">
+        <ele>85</ele>
+        <time>2021-10-31T08:04:59Z</time>
+        <extensions>
+          <maprika:speed>1.12</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3825636" lon="43.6757883">
+        <ele>87</ele>
+        <time>2021-10-31T08:05:20Z</time>
+        <extensions>
+          <maprika:speed>0.57</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3825254" lon="43.675725">
+        <ele>84</ele>
+        <time>2021-10-31T08:05:29Z</time>
+        <extensions>
+          <maprika:speed>1.26</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3824789" lon="43.6756809">
+        <ele>85</ele>
+        <time>2021-10-31T08:05:32Z</time>
+        <extensions>
+          <maprika:speed>1.84</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3824256" lon="43.6756511">
+        <ele>85</ele>
+        <time>2021-10-31T08:05:35Z</time>
+        <extensions>
+          <maprika:speed>1.97</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3823766" lon="43.6756232">
+        <ele>85</ele>
+        <time>2021-10-31T08:05:37Z</time>
+        <extensions>
+          <maprika:speed>2.32</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3823255" lon="43.6755992">
+        <ele>85</ele>
+        <time>2021-10-31T08:05:39Z</time>
+        <extensions>
+          <maprika:speed>2.22</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3822182" lon="43.6755555">
+        <ele>85</ele>
+        <time>2021-10-31T08:05:43Z</time>
+        <extensions>
+          <maprika:speed>2.58</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3821572" lon="43.6755262">
+        <ele>86</ele>
+        <time>2021-10-31T08:05:45Z</time>
+        <extensions>
+          <maprika:speed>2.56</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3820998" lon="43.6755004">
+        <ele>85</ele>
+        <time>2021-10-31T08:05:47Z</time>
+        <extensions>
+          <maprika:speed>2.59</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3820506" lon="43.6754821">
+        <ele>84</ele>
+        <time>2021-10-31T08:05:50Z</time>
+        <extensions>
+          <maprika:speed>0.46</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3820031" lon="43.6754592">
+        <ele>81</ele>
+        <time>2021-10-31T08:06:04Z</time>
+        <extensions>
+          <maprika:speed>0.26</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3820632" lon="43.67549">
+        <ele>81</ele>
+        <time>2021-10-31T08:06:13Z</time>
+        <extensions>
+          <maprika:speed>2.52</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3821568" lon="43.6755479">
+        <ele>80</ele>
+        <time>2021-10-31T08:06:18Z</time>
+        <extensions>
+          <maprika:speed>1.93</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3822229" lon="43.6755684">
+        <ele>81</ele>
+        <time>2021-10-31T08:06:21Z</time>
+        <extensions>
+          <maprika:speed>1.96</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.382287" lon="43.6756026">
+        <ele>82</ele>
+        <time>2021-10-31T08:06:24Z</time>
+        <extensions>
+          <maprika:speed>2.15</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3823795" lon="43.6756558">
+        <ele>83</ele>
+        <time>2021-10-31T08:06:28Z</time>
+        <extensions>
+          <maprika:speed>1.87</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3824207" lon="43.6757117">
+        <ele>80</ele>
+        <time>2021-10-31T08:06:33Z</time>
+        <extensions>
+          <maprika:speed>0.0</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3824942" lon="43.6757073">
+        <ele>79</ele>
+        <time>2021-10-31T08:08:05Z</time>
+        <extensions>
+          <maprika:speed>0.93</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3825463" lon="43.6757498">
+        <ele>80</ele>
+        <time>2021-10-31T08:08:09Z</time>
+        <extensions>
+          <maprika:speed>1.55</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3825988" lon="43.6757777">
+        <ele>81</ele>
+        <time>2021-10-31T08:08:12Z</time>
+        <extensions>
+          <maprika:speed>1.44</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3826522" lon="43.6758141">
+        <ele>82</ele>
+        <time>2021-10-31T08:08:15Z</time>
+        <extensions>
+          <maprika:speed>1.45</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3827154" lon="43.6758486">
+        <ele>82</ele>
+        <time>2021-10-31T08:08:18Z</time>
+        <extensions>
+          <maprika:speed>1.84</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3827696" lon="43.675889">
+        <ele>85</ele>
+        <time>2021-10-31T08:08:21Z</time>
+        <extensions>
+          <maprika:speed>1.02</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3828582" lon="43.6759599">
+        <ele>88</ele>
+        <time>2021-10-31T08:08:32Z</time>
+        <extensions>
+          <maprika:speed>0.73</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3829041" lon="43.6759855">
+        <ele>89</ele>
+        <time>2021-10-31T08:08:37Z</time>
+        <extensions>
+          <maprika:speed>0.88</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3829658" lon="43.676004">
+        <ele>90</ele>
+        <time>2021-10-31T08:08:46Z</time>
+        <extensions>
+          <maprika:speed>0.05</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3830125" lon="43.6760674">
+        <ele>91</ele>
+        <time>2021-10-31T08:08:58Z</time>
+        <extensions>
+          <maprika:speed>0.36</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3830123" lon="43.6759845">
+        <ele>83</ele>
+        <time>2021-10-31T08:10:18Z</time>
+        <extensions>
+          <maprika:speed>0.21</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3830619" lon="43.6759674">
+        <ele>79</ele>
+        <time>2021-10-31T08:12:22Z</time>
+        <extensions>
+          <maprika:speed>0.52</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3831087" lon="43.6759711">
+        <ele>80</ele>
+        <time>2021-10-31T08:12:29Z</time>
+        <extensions>
+          <maprika:speed>0.63</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.383154" lon="43.6759511">
+        <ele>79</ele>
+        <time>2021-10-31T08:13:21Z</time>
+        <extensions>
+          <maprika:speed>0.84</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3831432" lon="43.6760305">
+        <ele>82</ele>
+        <time>2021-10-31T08:18:35Z</time>
+        <extensions>
+          <maprika:speed>0.08</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3831039" lon="43.6760857">
+        <ele>84</ele>
+        <time>2021-10-31T08:18:57Z</time>
+        <extensions>
+          <maprika:speed>0.85</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3830581" lon="43.6761048">
+        <ele>79</ele>
+        <time>2021-10-31T08:19:31Z</time>
+        <extensions>
+          <maprika:speed>0.22</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3830452" lon="43.6760146">
+        <ele>81</ele>
+        <time>2021-10-31T08:20:12Z</time>
+        <extensions>
+          <maprika:speed>1.66</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3830054" lon="43.6759299">
+        <ele>80</ele>
+        <time>2021-10-31T08:20:15Z</time>
+        <extensions>
+          <maprika:speed>1.94</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3830005" lon="43.6758328">
+        <ele>81</ele>
+        <time>2021-10-31T08:20:18Z</time>
+        <extensions>
+          <maprika:speed>1.95</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3829808" lon="43.6756386">
+        <ele>84</ele>
+        <time>2021-10-31T08:20:24Z</time>
+        <extensions>
+          <maprika:speed>1.75</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3829636" lon="43.6755319">
+        <ele>85</ele>
+        <time>2021-10-31T08:20:27Z</time>
+        <extensions>
+          <maprika:speed>1.7</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.382936" lon="43.6754271">
+        <ele>85</ele>
+        <time>2021-10-31T08:20:30Z</time>
+        <extensions>
+          <maprika:speed>1.74</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.382892" lon="43.6752628">
+        <ele>87</ele>
+        <time>2021-10-31T08:20:36Z</time>
+        <extensions>
+          <maprika:speed>1.83</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.382845" lon="43.6750874">
+        <ele>86</ele>
+        <time>2021-10-31T08:20:41Z</time>
+        <extensions>
+          <maprika:speed>1.44</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3828252" lon="43.6749816">
+        <ele>87</ele>
+        <time>2021-10-31T08:20:44Z</time>
+        <extensions>
+          <maprika:speed>1.18</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3827714" lon="43.6748138">
+        <ele>88</ele>
+        <time>2021-10-31T08:20:50Z</time>
+        <extensions>
+          <maprika:speed>1.23</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3827315" lon="43.674738">
+        <ele>87</ele>
+        <time>2021-10-31T08:20:53Z</time>
+        <extensions>
+          <maprika:speed>1.63</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3827112" lon="43.6746344">
+        <ele>86</ele>
+        <time>2021-10-31T08:20:56Z</time>
+        <extensions>
+          <maprika:speed>1.4</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3827017" lon="43.6745214">
+        <ele>88</ele>
+        <time>2021-10-31T08:20:59Z</time>
+        <extensions>
+          <maprika:speed>1.57</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3826767" lon="43.6744174">
+        <ele>88</ele>
+        <time>2021-10-31T08:21:02Z</time>
+        <extensions>
+          <maprika:speed>1.3</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3826515" lon="43.6742533">
+        <ele>90</ele>
+        <time>2021-10-31T08:21:08Z</time>
+        <extensions>
+          <maprika:speed>1.09</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3826155" lon="43.6741621">
+        <ele>89</ele>
+        <time>2021-10-31T08:21:11Z</time>
+        <extensions>
+          <maprika:speed>1.48</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3825722" lon="43.6739905">
+        <ele>89</ele>
+        <time>2021-10-31T08:21:17Z</time>
+        <extensions>
+          <maprika:speed>1.44</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3825396" lon="43.6738173">
+        <ele>85</ele>
+        <time>2021-10-31T08:21:31Z</time>
+        <extensions>
+          <maprika:speed>0.84</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3824986" lon="43.6736488">
+        <ele>87</ele>
+        <time>2021-10-31T08:21:38Z</time>
+        <extensions>
+          <maprika:speed>0.79</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3824631" lon="43.6734647">
+        <ele>89</ele>
+        <time>2021-10-31T08:21:45Z</time>
+        <extensions>
+          <maprika:speed>0.98</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3824181" lon="43.6732852">
+        <ele>93</ele>
+        <time>2021-10-31T08:21:52Z</time>
+        <extensions>
+          <maprika:speed>1.48</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3823561" lon="43.6731223">
+        <ele>91</ele>
+        <time>2021-10-31T08:21:59Z</time>
+        <extensions>
+          <maprika:speed>0.24</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.382301" lon="43.6729752">
+        <ele>90</ele>
+        <time>2021-10-31T08:22:17Z</time>
+        <extensions>
+          <maprika:speed>0.43</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.38227" lon="43.6727723">
+        <ele>91</ele>
+        <time>2021-10-31T08:22:23Z</time>
+        <extensions>
+          <maprika:speed>1.35</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3822402" lon="43.6725953">
+        <ele>94</ele>
+        <time>2021-10-31T08:22:28Z</time>
+        <extensions>
+          <maprika:speed>1.13</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3822625" lon="43.6724028">
+        <ele>93</ele>
+        <time>2021-10-31T08:22:33Z</time>
+        <extensions>
+          <maprika:speed>1.5</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3822655" lon="43.6722936">
+        <ele>93</ele>
+        <time>2021-10-31T08:22:36Z</time>
+        <extensions>
+          <maprika:speed>1.19</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3822819" lon="43.6721116">
+        <ele>92</ele>
+        <time>2021-10-31T08:22:46Z</time>
+        <extensions>
+          <maprika:speed>0.72</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3822948" lon="43.6719516">
+        <ele>89</ele>
+        <time>2021-10-31T08:23:03Z</time>
+        <extensions>
+          <maprika:speed>0.75</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3822818" lon="43.6717658">
+        <ele>91</ele>
+        <time>2021-10-31T08:23:23Z</time>
+        <extensions>
+          <maprika:speed>0.64</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3823198" lon="43.671594">
+        <ele>90</ele>
+        <time>2021-10-31T08:23:31Z</time>
+        <extensions>
+          <maprika:speed>0.57</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3823543" lon="43.6714096">
+        <ele>88</ele>
+        <time>2021-10-31T08:23:42Z</time>
+        <extensions>
+          <maprika:speed>0.61</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3823477" lon="43.6712411">
+        <ele>90</ele>
+        <time>2021-10-31T08:23:54Z</time>
+        <extensions>
+          <maprika:speed>1.38</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.382321" lon="43.6710812">
+        <ele>88</ele>
+        <time>2021-10-31T08:24:09Z</time>
+        <extensions>
+          <maprika:speed>0.18</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3823473" lon="43.6709096">
+        <ele>88</ele>
+        <time>2021-10-31T08:24:27Z</time>
+        <extensions>
+          <maprika:speed>0.68</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3822562" lon="43.6708788">
+        <ele>91</ele>
+        <time>2021-10-31T08:24:34Z</time>
+        <extensions>
+          <maprika:speed>1.68</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3821482" lon="43.6708685">
+        <ele>90</ele>
+        <time>2021-10-31T08:24:39Z</time>
+        <extensions>
+          <maprika:speed>1.06</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3820507" lon="43.6708443">
+        <ele>89</ele>
+        <time>2021-10-31T08:24:48Z</time>
+        <extensions>
+          <maprika:speed>0.38</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3819539" lon="43.6708429">
+        <ele>83</ele>
+        <time>2021-10-31T08:25:17Z</time>
+        <extensions>
+          <maprika:speed>0.31</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3818996" lon="43.6707455">
+        <ele>82</ele>
+        <time>2021-10-31T08:26:13Z</time>
+        <extensions>
+          <maprika:speed>0.13</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.381859" lon="43.6706825">
+        <ele>83</ele>
+        <time>2021-10-31T08:26:41Z</time>
+        <extensions>
+          <maprika:speed>0.87</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3818293" lon="43.6706087">
+        <ele>83</ele>
+        <time>2021-10-31T08:26:57Z</time>
+        <extensions>
+          <maprika:speed>0.89</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3817962" lon="43.6704282">
+        <ele>84</ele>
+        <time>2021-10-31T08:27:04Z</time>
+        <extensions>
+          <maprika:speed>1.15</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3817884" lon="43.6702322">
+        <ele>86</ele>
+        <time>2021-10-31T08:27:10Z</time>
+        <extensions>
+          <maprika:speed>1.02</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3817674" lon="43.6700154">
+        <ele>87</ele>
+        <time>2021-10-31T08:27:16Z</time>
+        <extensions>
+          <maprika:speed>1.5</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3817703" lon="43.669837">
+        <ele>88</ele>
+        <time>2021-10-31T08:27:21Z</time>
+        <extensions>
+          <maprika:speed>0.76</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3817735" lon="43.6696214">
+        <ele>89</ele>
+        <time>2021-10-31T08:27:27Z</time>
+        <extensions>
+          <maprika:speed>1.4</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3817746" lon="43.6694625">
+        <ele>88</ele>
+        <time>2021-10-31T08:27:33Z</time>
+        <extensions>
+          <maprika:speed>1.3</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3817749" lon="43.6692934">
+        <ele>90</ele>
+        <time>2021-10-31T08:27:39Z</time>
+        <extensions>
+          <maprika:speed>0.96</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3817717" lon="43.6691906">
+        <ele>89</ele>
+        <time>2021-10-31T08:27:43Z</time>
+        <extensions>
+          <maprika:speed>0.96</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3817606" lon="43.6689924">
+        <ele>90</ele>
+        <time>2021-10-31T08:27:49Z</time>
+        <extensions>
+          <maprika:speed>1.17</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3817411" lon="43.6688294">
+        <ele>91</ele>
+        <time>2021-10-31T08:27:55Z</time>
+        <extensions>
+          <maprika:speed>1.06</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3817328" lon="43.6687206">
+        <ele>92</ele>
+        <time>2021-10-31T08:27:58Z</time>
+        <extensions>
+          <maprika:speed>1.75</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3816952" lon="43.6685571">
+        <ele>89</ele>
+        <time>2021-10-31T08:28:09Z</time>
+        <extensions>
+          <maprika:speed>0.36</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3816843" lon="43.668468">
+        <ele>89</ele>
+        <time>2021-10-31T08:28:15Z</time>
+        <extensions>
+          <maprika:speed>0.82</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3816156" lon="43.6683297">
+        <ele>88</ele>
+        <time>2021-10-31T08:28:22Z</time>
+        <extensions>
+          <maprika:speed>0.59</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3815919" lon="43.6681759">
+        <ele>83</ele>
+        <time>2021-10-31T08:28:51Z</time>
+        <extensions>
+          <maprika:speed>0.18</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3815018" lon="43.6681307">
+        <ele>87</ele>
+        <time>2021-10-31T08:29:21Z</time>
+        <extensions>
+          <maprika:speed>1.34</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3813999" lon="43.6680828">
+        <ele>88</ele>
+        <time>2021-10-31T08:29:27Z</time>
+        <extensions>
+          <maprika:speed>1.08</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3812927" lon="43.6680013">
+        <ele>91</ele>
+        <time>2021-10-31T08:29:33Z</time>
+        <extensions>
+          <maprika:speed>1.25</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3811766" lon="43.6679453">
+        <ele>90</ele>
+        <time>2021-10-31T08:29:38Z</time>
+        <extensions>
+          <maprika:speed>1.77</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3810678" lon="43.6679083">
+        <ele>91</ele>
+        <time>2021-10-31T08:29:43Z</time>
+        <extensions>
+          <maprika:speed>1.97</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3809499" lon="43.6678798">
+        <ele>91</ele>
+        <time>2021-10-31T08:29:49Z</time>
+        <extensions>
+          <maprika:speed>0.74</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3808589" lon="43.6678963">
+        <ele>93</ele>
+        <time>2021-10-31T08:29:55Z</time>
+        <extensions>
+          <maprika:speed>1.51</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3807697" lon="43.6680191">
+        <ele>95</ele>
+        <time>2021-10-31T08:30:01Z</time>
+        <extensions>
+          <maprika:speed>0.52</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3806677" lon="43.6680568">
+        <ele>87</ele>
+        <time>2021-10-31T08:30:31Z</time>
+        <extensions>
+          <maprika:speed>0.89</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3805646" lon="43.6680326">
+        <ele>87</ele>
+        <time>2021-10-31T08:30:37Z</time>
+        <extensions>
+          <maprika:speed>1.45</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3804632" lon="43.6679759">
+        <ele>88</ele>
+        <time>2021-10-31T08:30:50Z</time>
+        <extensions>
+          <maprika:speed>1.72</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3803695" lon="43.6679697">
+        <ele>90</ele>
+        <time>2021-10-31T08:30:54Z</time>
+        <extensions>
+          <maprika:speed>1.34</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3802545" lon="43.6679609">
+        <ele>91</ele>
+        <time>2021-10-31T08:31:01Z</time>
+        <extensions>
+          <maprika:speed>1.69</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3801575" lon="43.6679507">
+        <ele>93</ele>
+        <time>2021-10-31T08:31:05Z</time>
+        <extensions>
+          <maprika:speed>2.23</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3800485" lon="43.6679539">
+        <ele>94</ele>
+        <time>2021-10-31T08:31:09Z</time>
+        <extensions>
+          <maprika:speed>2.24</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3799138" lon="43.6679433">
+        <ele>94</ele>
+        <time>2021-10-31T08:31:15Z</time>
+        <extensions>
+          <maprika:speed>2.04</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3798003" lon="43.6678974">
+        <ele>92</ele>
+        <time>2021-10-31T08:31:20Z</time>
+        <extensions>
+          <maprika:speed>1.54</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3796961" lon="43.6678594">
+        <ele>92</ele>
+        <time>2021-10-31T08:31:24Z</time>
+        <extensions>
+          <maprika:speed>2.15</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3796001" lon="43.6678513">
+        <ele>93</ele>
+        <time>2021-10-31T08:31:28Z</time>
+        <extensions>
+          <maprika:speed>1.46</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3794934" lon="43.6677796">
+        <ele>92</ele>
+        <time>2021-10-31T08:31:34Z</time>
+        <extensions>
+          <maprika:speed>1.02</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3793871" lon="43.6677152">
+        <ele>92</ele>
+        <time>2021-10-31T08:31:39Z</time>
+        <extensions>
+          <maprika:speed>1.44</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3793229" lon="43.6676753">
+        <ele>93</ele>
+        <time>2021-10-31T08:31:42Z</time>
+        <extensions>
+          <maprika:speed>1.46</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3792191" lon="43.6676391">
+        <ele>93</ele>
+        <time>2021-10-31T08:31:46Z</time>
+        <extensions>
+          <maprika:speed>1.43</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3791211" lon="43.6676058">
+        <ele>94</ele>
+        <time>2021-10-31T08:31:50Z</time>
+        <extensions>
+          <maprika:speed>1.92</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3790254" lon="43.6675793">
+        <ele>94</ele>
+        <time>2021-10-31T08:31:54Z</time>
+        <extensions>
+          <maprika:speed>1.64</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3789625" lon="43.667528">
+        <ele>94</ele>
+        <time>2021-10-31T08:31:57Z</time>
+        <extensions>
+          <maprika:speed>1.73</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3788695" lon="43.6674501">
+        <ele>94</ele>
+        <time>2021-10-31T08:32:01Z</time>
+        <extensions>
+          <maprika:speed>1.47</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3787754" lon="43.6674099">
+        <ele>94</ele>
+        <time>2021-10-31T08:32:05Z</time>
+        <extensions>
+          <maprika:speed>1.82</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3787201" lon="43.6673874">
+        <ele>93</ele>
+        <time>2021-10-31T08:32:08Z</time>
+        <extensions>
+          <maprika:speed>0.36</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3786442" lon="43.6673772">
+        <ele>94</ele>
+        <time>2021-10-31T08:32:25Z</time>
+        <extensions>
+          <maprika:speed>1.6</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3785398" lon="43.6674086">
+        <ele>93</ele>
+        <time>2021-10-31T08:32:32Z</time>
+        <extensions>
+          <maprika:speed>0.32</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3784843" lon="43.6674018">
+        <ele>90</ele>
+        <time>2021-10-31T08:32:37Z</time>
+        <extensions>
+          <maprika:speed>0.79</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783922" lon="43.6674488">
+        <ele>88</ele>
+        <time>2021-10-31T08:32:47Z</time>
+        <extensions>
+          <maprika:speed>1.15</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783472" lon="43.6676392">
+        <ele>90</ele>
+        <time>2021-10-31T08:32:54Z</time>
+        <extensions>
+          <maprika:speed>1.13</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783121" lon="43.6678165">
+        <ele>92</ele>
+        <time>2021-10-31T08:33:00Z</time>
+        <extensions>
+          <maprika:speed>1.3</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783038" lon="43.6679148">
+        <ele>94</ele>
+        <time>2021-10-31T08:33:03Z</time>
+        <extensions>
+          <maprika:speed>1.04</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783002" lon="43.6680995">
+        <ele>95</ele>
+        <time>2021-10-31T08:33:09Z</time>
+        <extensions>
+          <maprika:speed>0.99</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3782916" lon="43.6681976">
+        <ele>96</ele>
+        <time>2021-10-31T08:33:12Z</time>
+        <extensions>
+          <maprika:speed>0.68</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3782862" lon="43.6683824">
+        <ele>97</ele>
+        <time>2021-10-31T08:33:23Z</time>
+        <extensions>
+          <maprika:speed>0.19</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3782889" lon="43.668566">
+        <ele>90</ele>
+        <time>2021-10-31T08:34:05Z</time>
+        <extensions>
+          <maprika:speed>0.78</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3782357" lon="43.6687174">
+        <ele>89</ele>
+        <time>2021-10-31T08:34:22Z</time>
+        <extensions>
+          <maprika:speed>1.2</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3781617" lon="43.668839">
+        <ele>94</ele>
+        <time>2021-10-31T08:34:30Z</time>
+        <extensions>
+          <maprika:speed>0.51</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3781038" lon="43.668984">
+        <ele>94</ele>
+        <time>2021-10-31T08:34:38Z</time>
+        <extensions>
+          <maprika:speed>1.17</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3780425" lon="43.6691222">
+        <ele>92</ele>
+        <time>2021-10-31T08:34:44Z</time>
+        <extensions>
+          <maprika:speed>1.04</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3779581" lon="43.6692629">
+        <ele>90</ele>
+        <time>2021-10-31T08:34:50Z</time>
+        <extensions>
+          <maprika:speed>1.49</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3779012" lon="43.6694194">
+        <ele>84</ele>
+        <time>2021-10-31T08:34:58Z</time>
+        <extensions>
+          <maprika:speed>0.47</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3778016" lon="43.6694493">
+        <ele>77</ele>
+        <time>2021-10-31T08:35:09Z</time>
+        <extensions>
+          <maprika:speed>0.25</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3777208" lon="43.6695449">
+        <ele>79</ele>
+        <time>2021-10-31T08:35:38Z</time>
+        <extensions>
+          <maprika:speed>0.0</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3776703" lon="43.6695842">
+        <ele>79</ele>
+        <time>2021-10-31T08:35:48Z</time>
+        <extensions>
+          <maprika:speed>1.0</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.377569" lon="43.6696102">
+        <ele>83</ele>
+        <time>2021-10-31T08:35:56Z</time>
+        <extensions>
+          <maprika:speed>1.31</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3774554" lon="43.6696069">
+        <ele>84</ele>
+        <time>2021-10-31T08:36:02Z</time>
+        <extensions>
+          <maprika:speed>1.75</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3773471" lon="43.6696186">
+        <ele>84</ele>
+        <time>2021-10-31T08:36:08Z</time>
+        <extensions>
+          <maprika:speed>1.54</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3772222" lon="43.6696219">
+        <ele>85</ele>
+        <time>2021-10-31T08:36:14Z</time>
+        <extensions>
+          <maprika:speed>1.76</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3771095" lon="43.6696299">
+        <ele>84</ele>
+        <time>2021-10-31T08:36:19Z</time>
+        <extensions>
+          <maprika:speed>1.19</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3770421" lon="43.6696358">
+        <ele>84</ele>
+        <time>2021-10-31T08:36:22Z</time>
+        <extensions>
+          <maprika:speed>1.52</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3769377" lon="43.6696185">
+        <ele>86</ele>
+        <time>2021-10-31T08:36:27Z</time>
+        <extensions>
+          <maprika:speed>0.82</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3768338" lon="43.6696135">
+        <ele>86</ele>
+        <time>2021-10-31T08:36:33Z</time>
+        <extensions>
+          <maprika:speed>1.1</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3767749" lon="43.669627">
+        <ele>86</ele>
+        <time>2021-10-31T08:36:36Z</time>
+        <extensions>
+          <maprika:speed>1.1</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3766767" lon="43.6696544">
+        <ele>87</ele>
+        <time>2021-10-31T08:36:40Z</time>
+        <extensions>
+          <maprika:speed>1.69</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3765663" lon="43.6697066">
+        <ele>90</ele>
+        <time>2021-10-31T08:36:44Z</time>
+        <geoidheight>8</geoidheight>
+        <extensions>
+          <maprika:speed>1.91</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3765165" lon="43.6697233">
+        <ele>88</ele>
+        <time>2021-10-31T08:36:48Z</time>
+        <extensions>
+          <maprika:speed>0.44</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3764624" lon="43.6697009">
+        <ele>85</ele>
+        <time>2021-10-31T08:36:59Z</time>
+        <extensions>
+          <maprika:speed>0.6</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3764202" lon="43.6696211">
+        <ele>86</ele>
+        <time>2021-10-31T08:37:03Z</time>
+        <extensions>
+          <maprika:speed>1.76</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3763815" lon="43.6695604">
+        <ele>86</ele>
+        <time>2021-10-31T08:37:07Z</time>
+        <extensions>
+          <maprika:speed>0.53</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3763397" lon="43.6695025">
+        <ele>86</ele>
+        <time>2021-10-31T08:37:18Z</time>
+        <extensions>
+          <maprika:speed>0.98</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3763074" lon="43.6694356">
+        <ele>87</ele>
+        <time>2021-10-31T08:37:21Z</time>
+        <extensions>
+          <maprika:speed>1.8</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3762752" lon="43.6693446">
+        <ele>88</ele>
+        <time>2021-10-31T08:37:24Z</time>
+        <extensions>
+          <maprika:speed>0.97</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3762605" lon="43.6692624">
+        <ele>90</ele>
+        <time>2021-10-31T08:37:39Z</time>
+        <extensions>
+          <maprika:speed>0.68</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.376215" lon="43.6692077">
+        <ele>91</ele>
+        <time>2021-10-31T08:37:53Z</time>
+        <extensions>
+          <maprika:speed>1.31</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3761676" lon="43.669143">
+        <ele>91</ele>
+        <time>2021-10-31T08:37:56Z</time>
+        <extensions>
+          <maprika:speed>2.1</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3761033" lon="43.6690255">
+        <ele>92</ele>
+        <time>2021-10-31T08:38:00Z</time>
+        <extensions>
+          <maprika:speed>2.24</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3760381" lon="43.6689095">
+        <ele>93</ele>
+        <time>2021-10-31T08:38:04Z</time>
+        <extensions>
+          <maprika:speed>1.91</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3759506" lon="43.6688009">
+        <ele>94</ele>
+        <time>2021-10-31T08:38:08Z</time>
+        <extensions>
+          <maprika:speed>2.68</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3758658" lon="43.6686841">
+        <ele>95</ele>
+        <time>2021-10-31T08:38:13Z</time>
+        <extensions>
+          <maprika:speed>2.05</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3757871" lon="43.6685926">
+        <ele>96</ele>
+        <time>2021-10-31T08:38:17Z</time>
+        <extensions>
+          <maprika:speed>2.07</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3756994" lon="43.6684858">
+        <ele>96</ele>
+        <time>2021-10-31T08:38:21Z</time>
+        <extensions>
+          <maprika:speed>1.85</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3756209" lon="43.668379">
+        <ele>96</ele>
+        <time>2021-10-31T08:38:25Z</time>
+        <extensions>
+          <maprika:speed>1.82</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3755426" lon="43.668273">
+        <ele>95</ele>
+        <time>2021-10-31T08:38:29Z</time>
+        <extensions>
+          <maprika:speed>1.6</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3754975" lon="43.6682109">
+        <ele>93</ele>
+        <time>2021-10-31T08:38:33Z</time>
+        <extensions>
+          <maprika:speed>0.0</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3754562" lon="43.6680686">
+        <ele>92</ele>
+        <time>2021-10-31T08:38:42Z</time>
+        <extensions>
+          <maprika:speed>0.77</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3754764" lon="43.6678878">
+        <ele>91</ele>
+        <time>2021-10-31T08:38:49Z</time>
+        <geoidheight>9</geoidheight>
+        <extensions>
+          <maprika:speed>0.71</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3755111" lon="43.6678">
+        <ele>92</ele>
+        <time>2021-10-31T08:38:52Z</time>
+        <extensions>
+          <maprika:speed>0.11</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3755328" lon="43.6677134">
+        <ele>87</ele>
+        <time>2021-10-31T08:38:55Z</time>
+        <extensions>
+          <maprika:speed>0.0</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3755827" lon="43.6676604">
+        <ele>85</ele>
+        <time>2021-10-31T08:40:12Z</time>
+        <extensions>
+          <maprika:speed>0.2</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3756534" lon="43.6675357">
+        <ele>86</ele>
+        <time>2021-10-31T08:40:47Z</time>
+        <extensions>
+          <maprika:speed>1.09</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3756436" lon="43.667333">
+        <ele>88</ele>
+        <time>2021-10-31T08:40:55Z</time>
+        <extensions>
+          <maprika:speed>1.17</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3756354" lon="43.6671523">
+        <ele>87</ele>
+        <time>2021-10-31T08:41:01Z</time>
+        <extensions>
+          <maprika:speed>1.39</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3756447" lon="43.6669454">
+        <ele>91</ele>
+        <time>2021-10-31T08:41:07Z</time>
+        <extensions>
+          <maprika:speed>1.02</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3756527" lon="43.6667349">
+        <ele>93</ele>
+        <time>2021-10-31T08:41:13Z</time>
+        <extensions>
+          <maprika:speed>1.13</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3756526" lon="43.6666158">
+        <ele>93</ele>
+        <time>2021-10-31T08:41:16Z</time>
+        <extensions>
+          <maprika:speed>1.4</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3756669" lon="43.6664074">
+        <ele>92</ele>
+        <time>2021-10-31T08:41:22Z</time>
+        <extensions>
+          <maprika:speed>1.04</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3756899" lon="43.6663039">
+        <ele>92</ele>
+        <time>2021-10-31T08:41:25Z</time>
+        <extensions>
+          <maprika:speed>0.84</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3757032" lon="43.6661929">
+        <ele>92</ele>
+        <time>2021-10-31T08:41:28Z</time>
+        <extensions>
+          <maprika:speed>1.03</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3757064" lon="43.6659953">
+        <ele>93</ele>
+        <time>2021-10-31T08:41:33Z</time>
+        <extensions>
+          <maprika:speed>1.13</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3757017" lon="43.6658882">
+        <ele>94</ele>
+        <time>2021-10-31T08:41:36Z</time>
+        <extensions>
+          <maprika:speed>1.34</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3757184" lon="43.6656912">
+        <ele>93</ele>
+        <time>2021-10-31T08:41:41Z</time>
+        <extensions>
+          <maprika:speed>1.21</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3757165" lon="43.6655234">
+        <ele>92</ele>
+        <time>2021-10-31T08:41:47Z</time>
+        <extensions>
+          <maprika:speed>1.2</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3757153" lon="43.6654084">
+        <ele>92</ele>
+        <time>2021-10-31T08:41:50Z</time>
+        <extensions>
+          <maprika:speed>1.23</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3757425" lon="43.6652414">
+        <ele>89</ele>
+        <time>2021-10-31T08:42:01Z</time>
+        <extensions>
+          <maprika:speed>0.3</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.375765" lon="43.6650725">
+        <ele>78</ele>
+        <time>2021-10-31T08:42:41Z</time>
+        <extensions>
+          <maprika:speed>0.4</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.375819" lon="43.6650996">
+        <ele>81</ele>
+        <time>2021-10-31T08:42:47Z</time>
+        <extensions>
+          <maprika:speed>2.07</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3758753" lon="43.6650949">
+        <ele>84</ele>
+        <time>2021-10-31T08:42:50Z</time>
+        <extensions>
+          <maprika:speed>1.79</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3759254" lon="43.6650836">
+        <ele>84</ele>
+        <time>2021-10-31T08:42:55Z</time>
+        <extensions>
+          <maprika:speed>0.56</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3759744" lon="43.6650535">
+        <ele>86</ele>
+        <time>2021-10-31T08:43:07Z</time>
+        <extensions>
+          <maprika:speed>1.15</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3760362" lon="43.6649221">
+        <ele>87</ele>
+        <time>2021-10-31T08:43:15Z</time>
+        <extensions>
+          <maprika:speed>1.03</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3760731" lon="43.6647517">
+        <ele>87</ele>
+        <time>2021-10-31T08:43:25Z</time>
+        <extensions>
+          <maprika:speed>0.83</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3761088" lon="43.6645826">
+        <ele>89</ele>
+        <time>2021-10-31T08:43:31Z</time>
+        <extensions>
+          <maprika:speed>0.92</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.376119" lon="43.6644796">
+        <ele>89</ele>
+        <time>2021-10-31T08:43:34Z</time>
+        <extensions>
+          <maprika:speed>0.44</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3761921" lon="43.6644201">
+        <ele>85</ele>
+        <time>2021-10-31T08:43:50Z</time>
+        <extensions>
+          <maprika:speed>0.77</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3762276" lon="43.6642791">
+        <ele>85</ele>
+        <time>2021-10-31T08:44:02Z</time>
+        <extensions>
+          <maprika:speed>2.09</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3762393" lon="43.6641124">
+        <ele>86</ele>
+        <time>2021-10-31T08:44:09Z</time>
+        <extensions>
+          <maprika:speed>0.72</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3762571" lon="43.6640121">
+        <ele>82</ele>
+        <time>2021-10-31T08:44:15Z</time>
+        <extensions>
+          <maprika:speed>0.27</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3763419" lon="43.6639246">
+        <ele>80</ele>
+        <time>2021-10-31T08:46:01Z</time>
+        <extensions>
+          <maprika:speed>1.16</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3764514" lon="43.6639127">
+        <ele>85</ele>
+        <time>2021-10-31T08:46:08Z</time>
+        <extensions>
+          <maprika:speed>1.21</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3765711" lon="43.6639468">
+        <ele>87</ele>
+        <time>2021-10-31T08:46:15Z</time>
+        <extensions>
+          <maprika:speed>1.55</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3766721" lon="43.6639471">
+        <ele>87</ele>
+        <time>2021-10-31T08:46:20Z</time>
+        <extensions>
+          <maprika:speed>1.22</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3767907" lon="43.6639385">
+        <ele>91</ele>
+        <time>2021-10-31T08:46:26Z</time>
+        <extensions>
+          <maprika:speed>1.13</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3769" lon="43.6639487">
+        <ele>92</ele>
+        <time>2021-10-31T08:46:32Z</time>
+        <extensions>
+          <maprika:speed>0.78</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3770053" lon="43.6639452">
+        <ele>93</ele>
+        <time>2021-10-31T08:46:37Z</time>
+        <extensions>
+          <maprika:speed>1.58</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3771026" lon="43.6639932">
+        <ele>93</ele>
+        <time>2021-10-31T08:46:41Z</time>
+        <extensions>
+          <maprika:speed>0.31</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3771613" lon="43.6640322">
+        <ele>93</ele>
+        <time>2021-10-31T08:46:47Z</time>
+        <extensions>
+          <maprika:speed>1.05</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3772704" lon="43.6640761">
+        <ele>92</ele>
+        <time>2021-10-31T08:46:53Z</time>
+        <extensions>
+          <maprika:speed>1.11</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3773182" lon="43.6640921">
+        <ele>91</ele>
+        <time>2021-10-31T08:46:56Z</time>
+        <extensions>
+          <maprika:speed>0.03</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3774205" lon="43.6640724">
+        <ele>91</ele>
+        <time>2021-10-31T08:47:07Z</time>
+        <extensions>
+          <maprika:speed>1.2</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3774845" lon="43.6640772">
+        <ele>91</ele>
+        <time>2021-10-31T08:47:10Z</time>
+        <extensions>
+          <maprika:speed>2.0</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3775892" lon="43.6640668">
+        <ele>90</ele>
+        <time>2021-10-31T08:47:15Z</time>
+        <extensions>
+          <maprika:speed>1.32</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3776919" lon="43.66407">
+        <ele>93</ele>
+        <time>2021-10-31T08:47:20Z</time>
+        <extensions>
+          <maprika:speed>1.51</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3777879" lon="43.6640684">
+        <ele>93</ele>
+        <time>2021-10-31T08:47:24Z</time>
+        <extensions>
+          <maprika:speed>1.59</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.377881" lon="43.6641133">
+        <ele>92</ele>
+        <time>2021-10-31T08:47:32Z</time>
+        <extensions>
+          <maprika:speed>0.27</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3779394" lon="43.6642266">
+        <ele>94</ele>
+        <time>2021-10-31T08:47:42Z</time>
+        <extensions>
+          <maprika:speed>1.39</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3779525" lon="43.6644046">
+        <ele>98</ele>
+        <time>2021-10-31T08:47:51Z</time>
+        <extensions>
+          <maprika:speed>0.46</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3779595" lon="43.6644979">
+        <ele>98</ele>
+        <time>2021-10-31T08:47:56Z</time>
+        <extensions>
+          <maprika:speed>0.91</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3779657" lon="43.6645918">
+        <ele>98</ele>
+        <time>2021-10-31T08:48:01Z</time>
+        <extensions>
+          <maprika:speed>0.6</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3779775" lon="43.6646793">
+        <ele>89</ele>
+        <time>2021-10-31T08:48:13Z</time>
+        <extensions>
+          <maprika:speed>0.0</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3780392" lon="43.6648337">
+        <ele>89</ele>
+        <time>2021-10-31T08:48:36Z</time>
+        <extensions>
+          <maprika:speed>1.2</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3780874" lon="43.6648934">
+        <ele>92</ele>
+        <time>2021-10-31T08:48:39Z</time>
+        <extensions>
+          <maprika:speed>0.84</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3781186" lon="43.6649735">
+        <ele>97</ele>
+        <time>2021-10-31T08:48:42Z</time>
+        <extensions>
+          <maprika:speed>1.31</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3781502" lon="43.6650597">
+        <ele>97</ele>
+        <time>2021-10-31T08:48:45Z</time>
+        <extensions>
+          <maprika:speed>1.11</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3781935" lon="43.6651096">
+        <ele>98</ele>
+        <time>2021-10-31T08:48:48Z</time>
+        <extensions>
+          <maprika:speed>1.42</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3782537" lon="43.6651495">
+        <ele>98</ele>
+        <time>2021-10-31T08:48:51Z</time>
+        <extensions>
+          <maprika:speed>1.91</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783424" lon="43.6651963">
+        <ele>97</ele>
+        <time>2021-10-31T08:48:58Z</time>
+        <extensions>
+          <maprika:speed>1.55</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3784031" lon="43.6652435">
+        <ele>96</ele>
+        <time>2021-10-31T08:49:01Z</time>
+        <extensions>
+          <maprika:speed>1.55</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3784518" lon="43.6653134">
+        <ele>96</ele>
+        <time>2021-10-31T08:49:04Z</time>
+        <extensions>
+          <maprika:speed>1.43</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3785004" lon="43.6653879">
+        <ele>96</ele>
+        <time>2021-10-31T08:49:07Z</time>
+        <extensions>
+          <maprika:speed>1.38</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3785887" lon="43.6655083">
+        <ele>99</ele>
+        <time>2021-10-31T08:49:12Z</time>
+        <extensions>
+          <maprika:speed>1.49</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3786798" lon="43.665525">
+        <ele>96</ele>
+        <time>2021-10-31T08:49:18Z</time>
+        <extensions>
+          <maprika:speed>0.08</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3787682" lon="43.6655598">
+        <ele>93</ele>
+        <time>2021-10-31T08:49:35Z</time>
+        <extensions>
+          <maprika:speed>0.25</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3788076" lon="43.6656433">
+        <ele>83</ele>
+        <time>2021-10-31T08:49:46Z</time>
+        <extensions>
+          <maprika:speed>0.07</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.378713" lon="43.665722">
+        <ele>86</ele>
+        <time>2021-10-31T08:50:05Z</time>
+        <extensions>
+          <maprika:speed>1.2</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3786242" lon="43.6658358">
+        <ele>87</ele>
+        <time>2021-10-31T08:50:11Z</time>
+        <extensions>
+          <maprika:speed>1.81</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3785246" lon="43.6659405">
+        <ele>87</ele>
+        <time>2021-10-31T08:50:17Z</time>
+        <extensions>
+          <maprika:speed>1.44</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3784683" lon="43.6661222">
+        <ele>89</ele>
+        <time>2021-10-31T08:50:23Z</time>
+        <extensions>
+          <maprika:speed>1.59</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.378435" lon="43.6663003">
+        <ele>90</ele>
+        <time>2021-10-31T08:50:28Z</time>
+        <extensions>
+          <maprika:speed>1.08</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3784065" lon="43.6664824">
+        <ele>93</ele>
+        <time>2021-10-31T08:50:34Z</time>
+        <extensions>
+          <maprika:speed>1.67</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783906" lon="43.6665932">
+        <ele>93</ele>
+        <time>2021-10-31T08:50:37Z</time>
+        <extensions>
+          <maprika:speed>1.27</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783763" lon="43.6667021">
+        <ele>93</ele>
+        <time>2021-10-31T08:50:40Z</time>
+        <extensions>
+          <maprika:speed>1.74</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783502" lon="43.6668866">
+        <ele>94</ele>
+        <time>2021-10-31T08:50:45Z</time>
+        <extensions>
+          <maprika:speed>1.25</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783266" lon="43.6669875">
+        <ele>95</ele>
+        <time>2021-10-31T08:50:48Z</time>
+        <extensions>
+          <maprika:speed>0.93</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783214" lon="43.6671891">
+        <ele>94</ele>
+        <time>2021-10-31T08:50:54Z</time>
+        <extensions>
+          <maprika:speed>1.08</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783145" lon="43.6672978">
+        <ele>96</ele>
+        <time>2021-10-31T08:50:57Z</time>
+        <extensions>
+          <maprika:speed>1.21</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783177" lon="43.667462">
+        <ele>97</ele>
+        <time>2021-10-31T08:51:01Z</time>
+        <extensions>
+          <maprika:speed>1.1</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.378324" lon="43.667574">
+        <ele>98</ele>
+        <time>2021-10-31T08:51:04Z</time>
+        <extensions>
+          <maprika:speed>1.04</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783199" lon="43.6677897">
+        <ele>100</ele>
+        <time>2021-10-31T08:51:10Z</time>
+        <extensions>
+          <maprika:speed>1.59</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783134" lon="43.6678904">
+        <ele>100</ele>
+        <time>2021-10-31T08:51:12Z</time>
+        <extensions>
+          <maprika:speed>1.95</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783067" lon="43.6679966">
+        <ele>101</ele>
+        <time>2021-10-31T08:51:14Z</time>
+        <extensions>
+          <maprika:speed>2.07</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3782981" lon="43.6681955">
+        <ele>102</ele>
+        <time>2021-10-31T08:51:18Z</time>
+        <extensions>
+          <maprika:speed>1.6</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.378292" lon="43.6682991">
+        <ele>101</ele>
+        <time>2021-10-31T08:51:21Z</time>
+        <extensions>
+          <maprika:speed>0.3</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783062" lon="43.6683939">
+        <ele>98</ele>
+        <time>2021-10-31T08:51:28Z</time>
+        <extensions>
+          <maprika:speed>0.07</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783111" lon="43.6684799">
+        <ele>95</ele>
+        <time>2021-10-31T08:51:39Z</time>
+        <extensions>
+          <maprika:speed>0.88</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783637" lon="43.6686254">
+        <ele>96</ele>
+        <time>2021-10-31T08:51:45Z</time>
+        <extensions>
+          <maprika:speed>1.69</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3784358" lon="43.6687745">
+        <ele>96</ele>
+        <time>2021-10-31T08:51:50Z</time>
+        <extensions>
+          <maprika:speed>1.55</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3784843" lon="43.6688605">
+        <ele>97</ele>
+        <time>2021-10-31T08:51:53Z</time>
+        <extensions>
+          <maprika:speed>1.92</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3785328" lon="43.6690147">
+        <ele>97</ele>
+        <time>2021-10-31T08:51:57Z</time>
+        <extensions>
+          <maprika:speed>1.78</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3785895" lon="43.6691941">
+        <ele>97</ele>
+        <time>2021-10-31T08:52:02Z</time>
+        <extensions>
+          <maprika:speed>1.39</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3786168" lon="43.6693045">
+        <ele>98</ele>
+        <time>2021-10-31T08:52:05Z</time>
+        <extensions>
+          <maprika:speed>1.45</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.378642" lon="43.6694191">
+        <ele>98</ele>
+        <time>2021-10-31T08:52:08Z</time>
+        <extensions>
+          <maprika:speed>1.66</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3786557" lon="43.6695171">
+        <ele>97</ele>
+        <time>2021-10-31T08:52:10Z</time>
+        <extensions>
+          <maprika:speed>2.11</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3787027" lon="43.6696786">
+        <ele>97</ele>
+        <time>2021-10-31T08:52:14Z</time>
+        <extensions>
+          <maprika:speed>2.06</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3787781" lon="43.6698383">
+        <ele>98</ele>
+        <time>2021-10-31T08:52:19Z</time>
+        <extensions>
+          <maprika:speed>1.52</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3788059" lon="43.6699469">
+        <ele>98</ele>
+        <time>2021-10-31T08:52:22Z</time>
+        <extensions>
+          <maprika:speed>1.4</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3788489" lon="43.6700982">
+        <ele>99</ele>
+        <time>2021-10-31T08:52:26Z</time>
+        <extensions>
+          <maprika:speed>1.81</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3789107" lon="43.6702365">
+        <ele>99</ele>
+        <time>2021-10-31T08:52:31Z</time>
+        <extensions>
+          <maprika:speed>0.74</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3789435" lon="43.6703163">
+        <ele>99</ele>
+        <time>2021-10-31T08:52:37Z</time>
+        <extensions>
+          <maprika:speed>0.71</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3789732" lon="43.6703894">
+        <ele>99</ele>
+        <time>2021-10-31T08:52:41Z</time>
+        <extensions>
+          <maprika:speed>0.0</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3790195" lon="43.6704056">
+        <ele>101</ele>
+        <time>2021-10-31T08:52:55Z</time>
+        <extensions>
+          <maprika:speed>0.06</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3790616" lon="43.6704836">
+        <ele>98</ele>
+        <time>2021-10-31T08:53:45Z</time>
+        <extensions>
+          <maprika:speed>1.56</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3790946" lon="43.670573">
+        <ele>97</ele>
+        <time>2021-10-31T08:53:48Z</time>
+        <extensions>
+          <maprika:speed>1.74</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3791443" lon="43.6706574">
+        <ele>97</ele>
+        <time>2021-10-31T08:53:51Z</time>
+        <extensions>
+          <maprika:speed>2.23</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3792234" lon="43.6707777">
+        <ele>97</ele>
+        <time>2021-10-31T08:53:55Z</time>
+        <extensions>
+          <maprika:speed>2.21</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3793125" lon="43.6709036">
+        <ele>96</ele>
+        <time>2021-10-31T08:53:59Z</time>
+        <extensions>
+          <maprika:speed>2.54</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3793525" lon="43.6709942">
+        <ele>96</ele>
+        <time>2021-10-31T08:54:02Z</time>
+        <extensions>
+          <maprika:speed>1.64</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3794014" lon="43.6710647">
+        <ele>98</ele>
+        <time>2021-10-31T08:54:05Z</time>
+        <extensions>
+          <maprika:speed>1.81</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3794855" lon="43.6711814">
+        <ele>98</ele>
+        <time>2021-10-31T08:54:09Z</time>
+        <extensions>
+          <maprika:speed>1.87</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3795571" lon="43.6713304">
+        <ele>98</ele>
+        <time>2021-10-31T08:54:13Z</time>
+        <extensions>
+          <maprika:speed>1.65</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.379601" lon="43.6714269">
+        <ele>97</ele>
+        <time>2021-10-31T08:54:16Z</time>
+        <extensions>
+          <maprika:speed>1.89</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3796958" lon="43.6715471">
+        <ele>97</ele>
+        <time>2021-10-31T08:54:20Z</time>
+        <extensions>
+          <maprika:speed>1.81</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3797787" lon="43.671684">
+        <ele>97</ele>
+        <time>2021-10-31T08:54:24Z</time>
+        <extensions>
+          <maprika:speed>1.65</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3798378" lon="43.6718148">
+        <ele>99</ele>
+        <time>2021-10-31T08:54:28Z</time>
+        <extensions>
+          <maprika:speed>1.58</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3799041" lon="43.6719698">
+        <ele>99</ele>
+        <time>2021-10-31T08:54:32Z</time>
+        <extensions>
+          <maprika:speed>2.31</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3799712" lon="43.6721395">
+        <ele>100</ele>
+        <time>2021-10-31T08:54:37Z</time>
+        <extensions>
+          <maprika:speed>1.41</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3800188" lon="43.6722165">
+        <ele>100</ele>
+        <time>2021-10-31T08:54:40Z</time>
+        <extensions>
+          <maprika:speed>1.63</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3800876" lon="43.6723536">
+        <ele>101</ele>
+        <time>2021-10-31T08:54:44Z</time>
+        <extensions>
+          <maprika:speed>1.58</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.380162" lon="43.6724765">
+        <ele>103</ele>
+        <time>2021-10-31T08:54:48Z</time>
+        <extensions>
+          <maprika:speed>1.66</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3802405" lon="43.6725837">
+        <ele>104</ele>
+        <time>2021-10-31T08:54:52Z</time>
+        <extensions>
+          <maprika:speed>1.55</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.380302" lon="43.672739">
+        <ele>104</ele>
+        <time>2021-10-31T08:55:00Z</time>
+        <extensions>
+          <maprika:speed>0.72</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3803452" lon="43.6728209">
+        <ele>103</ele>
+        <time>2021-10-31T08:55:03Z</time>
+        <extensions>
+          <maprika:speed>1.73</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3803994" lon="43.672985">
+        <ele>103</ele>
+        <time>2021-10-31T08:55:08Z</time>
+        <extensions>
+          <maprika:speed>1.51</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3804087" lon="43.6730947">
+        <ele>103</ele>
+        <time>2021-10-31T08:55:11Z</time>
+        <extensions>
+          <maprika:speed>1.43</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3803941" lon="43.6732991">
+        <ele>102</ele>
+        <time>2021-10-31T08:55:17Z</time>
+        <extensions>
+          <maprika:speed>1.59</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3803629" lon="43.6734647">
+        <ele>102</ele>
+        <time>2021-10-31T08:55:21Z</time>
+        <extensions>
+          <maprika:speed>1.39</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3803578" lon="43.6736434">
+        <ele>103</ele>
+        <time>2021-10-31T08:55:25Z</time>
+        <extensions>
+          <maprika:speed>1.43</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3803719" lon="43.6738137">
+        <ele>103</ele>
+        <time>2021-10-31T08:55:29Z</time>
+        <extensions>
+          <maprika:speed>1.36</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3803591" lon="43.6739966">
+        <ele>102</ele>
+        <time>2021-10-31T08:55:33Z</time>
+        <extensions>
+          <maprika:speed>2.22</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.380343" lon="43.6741742">
+        <ele>100</ele>
+        <time>2021-10-31T08:55:39Z</time>
+        <extensions>
+          <maprika:speed>1.02</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3802809" lon="43.6742052">
+        <ele>97</ele>
+        <time>2021-10-31T08:55:42Z</time>
+        <extensions>
+          <maprika:speed>1.69</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3802104" lon="43.6742153">
+        <ele>94</ele>
+        <time>2021-10-31T08:55:45Z</time>
+        <extensions>
+          <maprika:speed>2.18</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.380114" lon="43.6742423">
+        <ele>94</ele>
+        <time>2021-10-31T08:55:49Z</time>
+        <extensions>
+          <maprika:speed>2.34</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3800115" lon="43.6742469">
+        <ele>93</ele>
+        <time>2021-10-31T08:55:54Z</time>
+        <extensions>
+          <maprika:speed>1.2</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3799311" lon="43.6742916">
+        <ele>86</ele>
+        <time>2021-10-31T08:56:35Z</time>
+        <extensions>
+          <maprika:speed>0.16</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3798704" lon="43.6743083">
+        <ele>87</ele>
+        <time>2021-10-31T08:56:52Z</time>
+        <extensions>
+          <maprika:speed>1.08</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3798046" lon="43.6743176">
+        <ele>86</ele>
+        <time>2021-10-31T08:56:55Z</time>
+        <extensions>
+          <maprika:speed>1.87</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.379698" lon="43.6743109">
+        <ele>85</ele>
+        <time>2021-10-31T08:56:59Z</time>
+        <geoidheight>8</geoidheight>
+        <extensions>
+          <maprika:speed>2.02</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3796007" lon="43.6742836">
+        <ele>84</ele>
+        <time>2021-10-31T08:57:03Z</time>
+        <extensions>
+          <maprika:speed>2.08</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3794982" lon="43.6742624">
+        <ele>83</ele>
+        <time>2021-10-31T08:57:07Z</time>
+        <extensions>
+          <maprika:speed>2.08</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3793994" lon="43.6742748">
+        <ele>84</ele>
+        <time>2021-10-31T08:57:11Z</time>
+        <extensions>
+          <maprika:speed>2.35</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3793068" lon="43.6742452">
+        <ele>86</ele>
+        <time>2021-10-31T08:57:15Z</time>
+        <extensions>
+          <maprika:speed>1.57</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3792467" lon="43.6742181">
+        <ele>87</ele>
+        <time>2021-10-31T08:57:18Z</time>
+        <extensions>
+          <maprika:speed>0.91</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3791827" lon="43.6742143">
+        <ele>87</ele>
+        <time>2021-10-31T08:57:21Z</time>
+        <extensions>
+          <maprika:speed>1.71</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3790659" lon="43.6742183">
+        <ele>89</ele>
+        <time>2021-10-31T08:57:26Z</time>
+        <extensions>
+          <maprika:speed>1.78</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3789658" lon="43.6741947">
+        <ele>88</ele>
+        <time>2021-10-31T08:57:30Z</time>
+        <extensions>
+          <maprika:speed>1.78</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3788649" lon="43.6741703">
+        <ele>87</ele>
+        <time>2021-10-31T08:57:35Z</time>
+        <extensions>
+          <maprika:speed>0.59</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3788122" lon="43.6741425">
+        <ele>88</ele>
+        <time>2021-10-31T08:57:39Z</time>
+        <extensions>
+          <maprika:speed>0.69</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3787048" lon="43.6741435">
+        <ele>89</ele>
+        <time>2021-10-31T08:57:45Z</time>
+        <extensions>
+          <maprika:speed>1.45</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3786068" lon="43.6741179">
+        <ele>88</ele>
+        <time>2021-10-31T08:57:58Z</time>
+        <extensions>
+          <maprika:speed>0.0</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3785281" lon="43.6741978">
+        <ele>87</ele>
+        <time>2021-10-31T08:58:17Z</time>
+        <extensions>
+          <maprika:speed>1.09</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3784752" lon="43.6743507">
+        <ele>88</ele>
+        <time>2021-10-31T08:58:23Z</time>
+        <extensions>
+          <maprika:speed>1.07</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3784413" lon="43.6745147">
+        <ele>90</ele>
+        <time>2021-10-31T08:58:29Z</time>
+        <extensions>
+          <maprika:speed>1.08</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3784041" lon="43.6747275">
+        <ele>92</ele>
+        <time>2021-10-31T08:58:35Z</time>
+        <extensions>
+          <maprika:speed>1.44</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783633" lon="43.6748952">
+        <ele>93</ele>
+        <time>2021-10-31T08:58:40Z</time>
+        <extensions>
+          <maprika:speed>0.78</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783198" lon="43.6750569">
+        <ele>95</ele>
+        <time>2021-10-31T08:58:46Z</time>
+        <extensions>
+          <maprika:speed>0.86</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.37827" lon="43.6752053">
+        <ele>95</ele>
+        <time>2021-10-31T08:58:52Z</time>
+        <extensions>
+          <maprika:speed>0.32</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.378228" lon="43.6753942">
+        <ele>98</ele>
+        <time>2021-10-31T08:58:59Z</time>
+        <extensions>
+          <maprika:speed>1.12</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3782124" lon="43.6755119">
+        <ele>98</ele>
+        <time>2021-10-31T08:59:02Z</time>
+        <extensions>
+          <maprika:speed>1.47</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3782087" lon="43.6756859">
+        <ele>99</ele>
+        <time>2021-10-31T08:59:07Z</time>
+        <extensions>
+          <maprika:speed>0.43</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.378185" lon="43.6757792">
+        <ele>97</ele>
+        <time>2021-10-31T08:59:15Z</time>
+        <extensions>
+          <maprika:speed>0.14</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3781682" lon="43.6759673">
+        <ele>94</ele>
+        <time>2021-10-31T08:59:30Z</time>
+        <extensions>
+          <maprika:speed>1.52</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3781409" lon="43.6760815">
+        <ele>95</ele>
+        <time>2021-10-31T08:59:33Z</time>
+        <extensions>
+          <maprika:speed>1.45</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3781068" lon="43.6761872">
+        <ele>95</ele>
+        <time>2021-10-31T08:59:36Z</time>
+        <extensions>
+          <maprika:speed>1.39</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3780878" lon="43.6762926">
+        <ele>95</ele>
+        <time>2021-10-31T08:59:39Z</time>
+        <extensions>
+          <maprika:speed>1.53</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3780619" lon="43.6764941">
+        <ele>97</ele>
+        <time>2021-10-31T08:59:44Z</time>
+        <extensions>
+          <maprika:speed>1.4</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3780562" lon="43.6766178">
+        <ele>98</ele>
+        <time>2021-10-31T08:59:47Z</time>
+        <extensions>
+          <maprika:speed>1.59</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3780425" lon="43.6768066">
+        <ele>99</ele>
+        <time>2021-10-31T08:59:52Z</time>
+        <extensions>
+          <maprika:speed>0.39</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3780245" lon="43.6770174">
+        <ele>97</ele>
+        <time>2021-10-31T09:00:02Z</time>
+        <extensions>
+          <maprika:speed>1.11</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3779919" lon="43.6771891">
+        <ele>98</ele>
+        <time>2021-10-31T09:00:06Z</time>
+        <extensions>
+          <maprika:speed>1.33</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3779583" lon="43.6773887">
+        <ele>98</ele>
+        <time>2021-10-31T09:00:11Z</time>
+        <extensions>
+          <maprika:speed>1.32</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.377936" lon="43.67757">
+        <ele>100</ele>
+        <time>2021-10-31T09:00:15Z</time>
+        <extensions>
+          <maprika:speed>1.56</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3779509" lon="43.6777767">
+        <ele>102</ele>
+        <time>2021-10-31T09:00:20Z</time>
+        <extensions>
+          <maprika:speed>1.07</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3779886" lon="43.6779323">
+        <ele>103</ele>
+        <time>2021-10-31T09:00:24Z</time>
+        <extensions>
+          <maprika:speed>1.13</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3780165" lon="43.6780155">
+        <ele>103</ele>
+        <time>2021-10-31T09:00:26Z</time>
+        <extensions>
+          <maprika:speed>1.48</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3780794" lon="43.678185">
+        <ele>102</ele>
+        <time>2021-10-31T09:00:31Z</time>
+        <extensions>
+          <maprika:speed>1.09</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3781402" lon="43.6783049">
+        <ele>96</ele>
+        <time>2021-10-31T09:00:50Z</time>
+        <extensions>
+          <maprika:speed>0.65</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3781934" lon="43.6782731">
+        <ele>95</ele>
+        <time>2021-10-31T09:00:57Z</time>
+        <extensions>
+          <maprika:speed>0.48</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3782704" lon="43.6781559">
+        <ele>95</ele>
+        <time>2021-10-31T09:01:07Z</time>
+        <extensions>
+          <maprika:speed>0.71</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3782999" lon="43.6779924">
+        <ele>95</ele>
+        <time>2021-10-31T09:01:13Z</time>
+        <extensions>
+          <maprika:speed>0.98</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3783681" lon="43.6777765">
+        <ele>92</ele>
+        <time>2021-10-31T09:01:22Z</time>
+        <extensions>
+          <maprika:speed>0.13</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3784032" lon="43.6777138">
+        <ele>88</ele>
+        <time>2021-10-31T09:01:25Z</time>
+        <extensions>
+          <maprika:speed>0.0</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3784364" lon="43.6776505">
+        <ele>88</ele>
+        <time>2021-10-31T09:01:30Z</time>
+        <extensions>
+          <maprika:speed>0.13</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3784603" lon="43.6775793">
+        <ele>86</ele>
+        <time>2021-10-31T09:01:38Z</time>
+        <extensions>
+          <maprika:speed>0.61</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.378506" lon="43.677592">
+        <ele>88</ele>
+        <time>2021-10-31T09:01:43Z</time>
+        <extensions>
+          <maprika:speed>0.8</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3785654" lon="43.6776126">
+        <ele>88</ele>
+        <time>2021-10-31T09:01:47Z</time>
+        <extensions>
+          <maprika:speed>1.76</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3786199" lon="43.6776147">
+        <ele>89</ele>
+        <time>2021-10-31T09:01:50Z</time>
+        <extensions>
+          <maprika:speed>1.55</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3786669" lon="43.677597">
+        <ele>91</ele>
+        <time>2021-10-31T09:01:53Z</time>
+        <extensions>
+          <maprika:speed>1.4</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3787248" lon="43.6775867">
+        <ele>92</ele>
+        <time>2021-10-31T09:01:57Z</time>
+        <extensions>
+          <maprika:speed>2.1</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3788314" lon="43.6775724">
+        <ele>92</ele>
+        <time>2021-10-31T09:02:02Z</time>
+        <extensions>
+          <maprika:speed>1.72</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3788885" lon="43.677561">
+        <ele>93</ele>
+        <time>2021-10-31T09:02:05Z</time>
+        <extensions>
+          <maprika:speed>1.34</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3789953" lon="43.6775591">
+        <ele>93</ele>
+        <time>2021-10-31T09:02:11Z</time>
+        <extensions>
+          <maprika:speed>1.35</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3790503" lon="43.6775469">
+        <ele>94</ele>
+        <time>2021-10-31T09:02:14Z</time>
+        <extensions>
+          <maprika:speed>1.4</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3791453" lon="43.6775552">
+        <ele>95</ele>
+        <time>2021-10-31T09:02:18Z</time>
+        <extensions>
+          <maprika:speed>1.17</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3792441" lon="43.6775453">
+        <ele>95</ele>
+        <time>2021-10-31T09:02:22Z</time>
+        <extensions>
+          <maprika:speed>1.58</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3793391" lon="43.677567">
+        <ele>97</ele>
+        <time>2021-10-31T09:02:26Z</time>
+        <extensions>
+          <maprika:speed>1.29</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3793977" lon="43.6775689">
+        <ele>97</ele>
+        <time>2021-10-31T09:02:29Z</time>
+        <extensions>
+          <maprika:speed>1.21</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3794554" lon="43.6775681">
+        <ele>98</ele>
+        <time>2021-10-31T09:02:33Z</time>
+        <extensions>
+          <maprika:speed>0.8</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3795559" lon="43.6775655">
+        <ele>98</ele>
+        <time>2021-10-31T09:02:39Z</time>
+        <extensions>
+          <maprika:speed>0.73</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3796051" lon="43.6775718">
+        <ele>98</ele>
+        <time>2021-10-31T09:02:43Z</time>
+        <extensions>
+          <maprika:speed>0.96</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3796579" lon="43.6775681">
+        <ele>97</ele>
+        <time>2021-10-31T09:02:47Z</time>
+        <extensions>
+          <maprika:speed>0.77</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3797062" lon="43.6775784">
+        <ele>97</ele>
+        <time>2021-10-31T09:02:51Z</time>
+        <extensions>
+          <maprika:speed>0.0</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3797612" lon="43.6775825">
+        <ele>98</ele>
+        <time>2021-10-31T09:02:57Z</time>
+        <extensions>
+          <maprika:speed>0.67</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3798561" lon="43.6775905">
+        <ele>99</ele>
+        <time>2021-10-31T09:03:04Z</time>
+        <extensions>
+          <maprika:speed>2.12</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3799705" lon="43.6776265">
+        <ele>97</ele>
+        <time>2021-10-31T09:03:09Z</time>
+        <extensions>
+          <maprika:speed>2.1</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3800125" lon="43.6776693">
+        <ele>95</ele>
+        <time>2021-10-31T09:03:12Z</time>
+        <extensions>
+          <maprika:speed>0.85</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3800605" lon="43.6776921">
+        <ele>94</ele>
+        <time>2021-10-31T09:03:18Z</time>
+        <extensions>
+          <maprika:speed>1.2</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3801145" lon="43.6777192">
+        <ele>93</ele>
+        <time>2021-10-31T09:03:21Z</time>
+        <extensions>
+          <maprika:speed>2.36</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3801603" lon="43.6777326">
+        <ele>94</ele>
+        <time>2021-10-31T09:03:23Z</time>
+        <extensions>
+          <maprika:speed>2.15</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3802044" lon="43.6777666">
+        <ele>94</ele>
+        <time>2021-10-31T09:03:25Z</time>
+        <extensions>
+          <maprika:speed>2.0</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3802551" lon="43.6778093">
+        <ele>93</ele>
+        <time>2021-10-31T09:03:28Z</time>
+        <extensions>
+          <maprika:speed>0.64</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3802966" lon="43.6778417">
+        <ele>93</ele>
+        <time>2021-10-31T09:03:33Z</time>
+        <extensions>
+          <maprika:speed>0.27</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3803494" lon="43.6778352">
+        <ele>93</ele>
+        <time>2021-10-31T09:05:00Z</time>
+        <extensions>
+          <maprika:speed>0.95</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3803967" lon="43.6776851">
+        <ele>93</ele>
+        <time>2021-10-31T09:05:07Z</time>
+        <extensions>
+          <maprika:speed>1.85</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3804106" lon="43.6775823">
+        <ele>93</ele>
+        <time>2021-10-31T09:05:10Z</time>
+        <extensions>
+          <maprika:speed>1.94</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3804237" lon="43.6774692">
+        <ele>94</ele>
+        <time>2021-10-31T09:05:13Z</time>
+        <extensions>
+          <maprika:speed>1.42</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3804455" lon="43.6772778">
+        <ele>94</ele>
+        <time>2021-10-31T09:05:19Z</time>
+        <extensions>
+          <maprika:speed>1.39</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3804586" lon="43.6771858">
+        <ele>95</ele>
+        <time>2021-10-31T09:05:22Z</time>
+        <extensions>
+          <maprika:speed>0.87</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.380463" lon="43.6770875">
+        <ele>95</ele>
+        <time>2021-10-31T09:05:25Z</time>
+        <extensions>
+          <maprika:speed>0.81</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3804603" lon="43.6769771">
+        <ele>94</ele>
+        <time>2021-10-31T09:05:28Z</time>
+        <extensions>
+          <maprika:speed>1.39</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3804678" lon="43.6768759">
+        <ele>94</ele>
+        <time>2021-10-31T09:05:31Z</time>
+        <extensions>
+          <maprika:speed>0.6</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3805112" lon="43.6767164">
+        <ele>94</ele>
+        <time>2021-10-31T09:05:38Z</time>
+        <extensions>
+          <maprika:speed>1.04</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3805708" lon="43.6765725">
+        <ele>94</ele>
+        <time>2021-10-31T09:05:44Z</time>
+        <extensions>
+          <maprika:speed>0.96</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3806533" lon="43.676479">
+        <ele>92</ele>
+        <time>2021-10-31T09:05:48Z</time>
+        <extensions>
+          <maprika:speed>1.82</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3807348" lon="43.6763906">
+        <ele>92</ele>
+        <time>2021-10-31T09:05:52Z</time>
+        <extensions>
+          <maprika:speed>1.33</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3807917" lon="43.6763297">
+        <ele>93</ele>
+        <time>2021-10-31T09:05:55Z</time>
+        <extensions>
+          <maprika:speed>1.16</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3808475" lon="43.6762801">
+        <ele>92</ele>
+        <time>2021-10-31T09:05:58Z</time>
+        <extensions>
+          <maprika:speed>1.52</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3809523" lon="43.6762259">
+        <ele>91</ele>
+        <time>2021-10-31T09:06:03Z</time>
+        <extensions>
+          <maprika:speed>0.92</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3810188" lon="43.6761813">
+        <ele>90</ele>
+        <time>2021-10-31T09:06:06Z</time>
+        <geoidheight>9</geoidheight>
+        <extensions>
+          <maprika:speed>2.66</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3811166" lon="43.6760637">
+        <ele>90</ele>
+        <time>2021-10-31T09:06:11Z</time>
+        <extensions>
+          <maprika:speed>1.24</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3812211" lon="43.6760024">
+        <ele>91</ele>
+        <time>2021-10-31T09:06:17Z</time>
+        <extensions>
+          <maprika:speed>1.0</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3813131" lon="43.6759066">
+        <ele>91</ele>
+        <time>2021-10-31T09:06:21Z</time>
+        <extensions>
+          <maprika:speed>1.39</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3813977" lon="43.6757948">
+        <ele>91</ele>
+        <time>2021-10-31T09:06:26Z</time>
+        <extensions>
+          <maprika:speed>0.26</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3814556" lon="43.6757523">
+        <ele>89</ele>
+        <time>2021-10-31T09:06:31Z</time>
+        <extensions>
+          <maprika:speed>0.76</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3815137" lon="43.6756831">
+        <ele>86</ele>
+        <time>2021-10-31T09:06:37Z</time>
+        <extensions>
+          <maprika:speed>0.81</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3815644" lon="43.67567">
+        <ele>87</ele>
+        <time>2021-10-31T09:06:41Z</time>
+        <extensions>
+          <maprika:speed>0.66</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3816108" lon="43.6756548">
+        <ele>88</ele>
+        <time>2021-10-31T09:06:44Z</time>
+        <extensions>
+          <maprika:speed>0.64</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3816574" lon="43.6756236">
+        <ele>89</ele>
+        <time>2021-10-31T09:06:48Z</time>
+        <extensions>
+          <maprika:speed>0.26</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3817036" lon="43.6755757">
+        <ele>86</ele>
+        <time>2021-10-31T09:06:59Z</time>
+        <extensions>
+          <maprika:speed>0.57</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3818084" lon="43.6755218">
+        <ele>84</ele>
+        <time>2021-10-31T09:07:16Z</time>
+        <extensions>
+          <maprika:speed>0.02</maprika:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.3818084" lon="43.6755218">
+        <ele>94</ele>
+        <time>2021-10-31T09:07:16Z</time>
+        <extensions>
+          <maprika:speed>0.02</maprika:speed>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
